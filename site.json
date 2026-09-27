@@ -1,0 +1,13 @@
+{
+  "title": "X-CODER",
+  "description": "X-CODER 的技术博客，分享编程、开发、开源等相关内容。",
+  "url": "https://x-coder-ocs.github.io/blog",
+  "author": "cangcang",
+  "menu": [
+    { "name": "首页", "url": "/" },
+    { "name": "分类", "url": "/categories" },
+    { "name": "标签", "url": "/tags" },
+    { "name": "归档", "url": "/archives" },
+    { "name": "关于", "url": "/about" }
+  ]
+}
