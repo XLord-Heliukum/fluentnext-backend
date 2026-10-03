@@ -1,7 +1,7 @@
 {
   "title": "X-CODER",
   "description": "X-CODER 的技术博客，分享编程、开发、开源等相关内容。",
-  "url": "https://xlord-heliukum.github.io/blog",
+  "url": "https://xlord.hub-develop.top/blog",
   "author": "cangcang",
   "menu": [
     { "name": "首页", "url": "/" },
